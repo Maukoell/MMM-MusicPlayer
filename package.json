@@ -1,0 +1,14 @@
+{
+  "name": "MMM-MusicPlayer",
+  "version": "1.0.0",
+  "description": "Module to play music",
+  "main": "MMM-MusicPlayer.js",
+  "author": "Mauricio Köll",
+  "license": "MIT",
+  "dependencies": {
+    "onoff": "latest",
+    "howler": "2.1.0",
+    "fs": "latest",
+    "path": "latest"
+  }
+}
